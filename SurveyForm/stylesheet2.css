@@ -1,0 +1,33 @@
+#bottom {
+  position: absolute;
+  width:100%;
+  bottom:15px;
+  text-align:center;
+}
+
+#back {
+  background-color: #98C8CB;
+}
+
+#head {
+  font-family: Georgia,"Times New Roman",serif;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  line-height: 22px;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+#container {
+	position: relative;
+	margin: 25;
+	min-width: 700px;
+    min-height: 700px;
+	background-color: #FBFDFD;
+	font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  	font-size: 17px;
+  	font-weight: lighter;
+  	text-align: center;
+}
